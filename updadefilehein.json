@@ -6,7 +6,52 @@
       },
 
 {
-         "name": "TH-DTAC-VPS1",
+         "name": "TH-DTAC-GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME1.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME2",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME2.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME3",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME3.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME4",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME4.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME5",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME5.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME9",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME9.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME8",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME8.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME7",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME7.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME6",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME6.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-FREE0",
          "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-VPS.ovpn"
       },
 
@@ -31,13 +76,13 @@
       },
 
 {
-         "name": "TH-TRUE-VPS1",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-VPS.ovpn"
+         "name": "TH-TRUE-FREE0",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-FREE2.ovpn"
       },
 
 {
          "name": "TH-TRUE-FREE2",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-FREE2.ovpn"
       },
 
 {
@@ -53,6 +98,51 @@
 {
          "name": "TH-TRUE-FREE5",
          "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-VIP.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME1.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME2",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME2.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME3",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME3.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME4",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME4.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME5",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME5.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME6",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME6.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME7",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME7.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME8",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME8.ovpn"
+      },
+
+{
+         "name": "TH-TRUE-GAME9",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinLay/main/TH-DTAC-GAME9.ovpn"
       },
 
 {
@@ -81,28 +171,85 @@
       },
 
 {
-         "name": "SG-TRUE-FREE2",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-TRUE-FREE2.ovpn"
+         "name": "SG-DTAC-FREE6",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-FREE6.ovpn"
       },
 
 {
-         "name": "SG-TRUE-FREE3",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-TRUE-FREE3.ovpn"
+         "name": "SG-DTAC-FREE7",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-FREE7.ovpn"
       },
 
 {
-         "name": "SG-TRUE-FREE4",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-TRUE-FREE4.ovpn"
+         "name": "SG-DTAC-FREE8",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-FREE8.ovpn"
       },
 
 {
-         "name": "SG-TRUE-FREE5",
+         "name": "SG-DTAC-FREE9",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-FREE9.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME1.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME2",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME2.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME3",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME3.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME4",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME4.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME5",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME5.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME1",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME1.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME2",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME2.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME3",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME3.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME4",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME4.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME5",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-DTAC-GAME5.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME9",
          "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-TRUE-FREE5.ovpn"
       }
 
 
    ],
-"message":"🚀 Config version - 23  \n📆 Latest update - 23/03/2023\n \n📌What's new Server 🔥 \n• Added Singapore 🇸🇬 10 FILE\n• Added Thailand 🇹🇭 Server VIP FILE 10 15 Day\n• GAMES 🎮 PUBG 100+\n•GAMES 🎮Mobile Legends 100+\n• SIM💾 DTAC 💾 TRUEMOVE 🌐 NOPRO \n  \n \n ဘေ (၀) နဲ့ချိတ်ဆက်ကြပါ အဆင်ပြေကြပါစေလို့ဆုတောင်းရင်း🙏 ဟိန်းမင်းလတ်  🇲🇲",
+"message":"🚀 Config version - 24  \n📆 Latest update - 25/03/2023\n \n📌What's new Server 🔥 \n• Added Singapore 🇸🇬Free 10 FILE
+\n• Added Singapore 🇸🇬Game Server 10 FILE
+\n• Added Thailand 🇹🇭 Game Server  10 FILE\n• Added Thailand 🇹🇭 Server Free FILE 10 15 Day\n• GAMES 🎮 PUBG 100+\n•GAMES 🎮Mobile Legends 100+\n• SIM💾 DTAC 💾 TRUEMOVE 🌐 NOPRO \n  \n \n အဆင်ပြေကြပါစေလို့ဆုတောင်းရင်း🙏 ဟိန်းမင်းလတ်  🇲🇲",
    "title":"Do you want to update?",
-   "version": 23
+   "version": 24
 }
