@@ -1,5 +1,40 @@
 {
-   "files": [ 
+   "files": [  
+{
+         "name": "TH-DTAC-VIP1",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP2",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-7Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP3",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-7Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP4",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-7Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP5",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-7Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP6",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-Free1-7Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP7-တော်လှန်သကြန်",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-Free2-7Day.ovpn"
+      },
+
 {
          "name": "TH-Dtac-vip1-30Day",
          "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip-30Day.ovpn"
@@ -16,73 +51,208 @@
       },
 
 {
-         "name": "TH-TRUE-VIP-30-DAYs1",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
-      },
-
-{
-         "name": "TH-Dtac-vip1-30Day",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip-30Day.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-VIP2-15-Day",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-VIP-15-DAYs.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-VIP1-15-Day",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-VIP-15-DAYs.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-VIP-15-DAYs1",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-VIP-15-DAYs.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-VIP-15-DAYs2",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-VIP-15-DAYs.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-VIP-30-DAYs1",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-VIP-30-DAYs2",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-7Day.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-FREE-7-DAYs2",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-FREE-7-DAYs.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-FREE-7-DAYs1",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-FREE-7-DAYs.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-FREE-7DAYs1",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE-7-DAYs.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-FREE-7DAYs2",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE-7-DAYs.ovpn"
-      },
-
-{
          "name": "TH-True-vip2-30Day",
          "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-True-vip-30Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP8",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-15Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP9",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-15Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-15Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-15Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-15Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-VIP-15Day.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-Dtac-vip-A",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vipA.ovpn"
+      },
+
+{
+         "name": "TH-Dtac-vip-B",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-Free03.ovpn"
+      },
+
+{
+         "name": "TH-Dtac-vip-C",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-Free02.ovpn"
+      },
+
+{
+         "name": "TH-Dtac-vip-D",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-Free01.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip01.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip02.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip03.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip04.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip05.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip06.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip07.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip08",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip08.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip09",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip09.ovpn"
+      },
+
+{
+         "name": "SG-Dtac-vip010",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip010.ovpn"
+      },
+
+{
+         "name": "SG-True-vip01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip01.ovpn"
+      },
+
+{
+         "name": "SG-True-vip02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip02.ovpn"
+      }
+
+{
+         "name": "SG-True-vip03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip03.ovpn"
+      },
+
+{
+         "name": "SG-True-vip04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip04.ovpn"
+      }
+
+{
+         "name": "SG-True-vip05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip05.ovpn"
+      },
+
+{
+         "name": "SG-True-vip06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip06.ovpn"
+      }
+
+{
+         "name": "SG-True-vip07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip07.ovpn"
+      },
+
+{
+         "name": "SG-True-vip08",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip08.ovpn"
+      }
+
+{
+         "name": "SG-True-vip09",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip09.ovpn"
+      },
+
+{
+         "name": "SG-True-vip010",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip010.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP08",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP09",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP001",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP002",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP003",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-VIP004",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG_TRUE_01.ovpn"
       }
 
 
    ],
-"message":"🚀 Config version - 30 \n📆 Latest update - April 05/04/2023\n• ထိုင်း🇹🇭ဆာဗာ VIP ( ၃၀ )ရက်စာ (၄)ဖိုင် 15 ရက်စာ ၄ ဖိုင် \n• ဖိုင်စုစုပေါင်း( ၄ )ဖိုင်ပါပါတယ်\n• အသုံးပြုလိုရတဲ့စင်းကဒ်များထိုင်းစင်း \n• Dtac Truemove ဘေ(၀)နဲ့ချိတ်ဆက်လို့ရပါမည်\n•  စေတနာဖြင့်\n ကူညီပေးသော\n Hein Min Latt FREE VPN",
+"message":"🚀 Config version - 31 \n📆 Latest update - April 07/04/2023\n•ထိုင်း🇹🇭ဆာဗာ VIP ၃၀ ဖိုင်ထည့်ပေးထားတယ်\n• စင်ကာပူ 🇸🇬 ဆာဗာ VIP ၁၀ ဖိုင်ပါထပ်ဖြည့်ထားပါတယ်\n• ဖိုင်စုစုပေါင်း( ၄၀ )ဖိုင်ပါပါတယ်\n• အသုံးပြုလိုရတဲ့စင်းကဒ်များထိုင်းစင်း \n• Dtac Truemove ဘေ(၀)နဲ့ချိတ်ဆက်လို့ရပါမည်\n•  စေတနာဖြင့်\n ကူညီပေးသော\n Hein Min Latt FREE VPN",
    "title":"Do you want to update?",
-   "version": 30
+   "version": 31
 }
