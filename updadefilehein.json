@@ -1,128 +1,88 @@
 {
    "files": [ 
 {
-         "name": "TH-Dtac-vip-A",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip.ovpn"
+         "name": "TH-Dtac-vip-01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip-01.ovpn"
       },
 
 {
-         "name": "TH-Dtac-vip-B",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip.ovpn"
+         "name": "TH-Dtac-vip-02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip-02.ovpn"
       },
 
 {
-         "name": "TH-Dtac-vip-C",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip.ovpn"
+         "name": "TH-DTAC-VIP-GAME",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-VIP-GAME.ovpn"
       },
 
 {
-         "name": "TH-Dtac-vip-D",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-Dtac-vip.ovpn"
+         "name": "TH-TRUE-VIP-GAME",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-TRUE-VIP-GAME.ovpn"
+      },
+
+{
+         "name": "TH-True-vip-01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-True-vip-01.ovpn"
+      },
+
+{
+         "name": "TH-True-vip-02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-True-vip-02.ovpn"
       },
 
 {
          "name": "SG-Dtac-vip01",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-01.ovpn"
       },
 
 {
          "name": "SG-Dtac-vip02",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-02.ovpn"
       },
 
 {
          "name": "SG-Dtac-vip03",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-03.ovpn"
       },
 
 {
          "name": "SG-Dtac-vip04",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-04.ovpn"
       },
 
 {
          "name": "SG-Dtac-vip05",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-Dtac-vip06",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-Dtac-vip07",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-Dtac-vip08",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-Dtac-vip09",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-Dtac-vip010",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-05.ovpn"
       },
 
 {
          "name": "SG-True-vip01",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-01.ovpn"
       },
 
 {
          "name": "SG-True-vip02",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-02.ovpn"
       },
 
 {
          "name": "SG-True-vip03",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-03.ovpn"
       },
 
 {
          "name": "SG-True-vip04",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-04.ovpn"
       },
 
 {
          "name": "SG-True-vip05",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-True-vip06",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-True-vip07",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-True-vip08",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-True-vip09",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
-      },
-
-{
-         "name": "SG-True-vip010",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-Dtac-vip.ovpn"
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/SG-True-vip-05.ovpn"
       }
 
 
    ],
-"message":"🚀 Config version - 32 \n📆 Latest update - April 16/04/2023\n• ထိုင်း🇹🇭ဆာဗာ VIP ၁၀ ဖိုင် \n• စင်ကာပူ 🇸🇬 ဆာဗာ VIP ၁၀ ဖိုင်\n• ဖိုင်စုစုပေါင်း( ၂၀ )ဖိုင်ထည့်ပေးပါတယ် ဖိုင်ကိုရွေးချိတ်ကြပါထားတယ်\n• အသုံးပြုလိုရတဲ့စင်းကဒ်များထိုင်းစင်း \n• Dtac Truemove ဘေ(၀)နဲ့ချိတ်ဆက်လို့ရပါမည်\n•  စေတနာဖြင့်\n ကူညီပေးသော\n Hein Min Latt FREE VPN",
+"message":"🚀 Config version - 33 \n📆 Latest update - April 18/04/2023\n• ထိုင်း🇹🇭ဆာဗာ VIP ၁၀ ဖိုင် \n• စင်ကာပူ 🇸🇬 ဆာဗာ VIP ၁၀ ဖိုင်\n• ဖိုင်စုစုပေါင်း( ၁၆ )ဖိုင်ထည့်ပေးပါတယ် ဖိုင်ကိုရွေးချိတ်ကြပါထားတယ်\n• အသုံးပြုလိုရတဲ့စင်းကဒ်များထိုင်းစင်း \n• Dtac Truemove ဘေ(၀)နဲ့ချိတ်ဆက်လို့ရပါမည်\n•  စေတနာဖြင့်\n ကူညီပေးသော\n Hein Min Latt FREE VPN",
    "title":"Do you want to update?",
-   "version": 32
+   "version": 33
 }
