@@ -101,58 +101,58 @@
       },
 
 {
-         "name": "SG-DTAC-30Day-FREE01",
+         "name": "TH-DTAC-TRUE-FREE01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-TRUE-FREE02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-TRUE-FREE03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
+      },
+
+{
+         "name": "US-DTAC-TRUE-FREE04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
+      },
+
+{
+         "name": "US-DTAC-TRUE-FREE05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
+      },
+
+{
+         "name": "US-DTAC-TRUE-FREE06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
+      },
+
+{
+         "name": "US-DTAC-TRUE-FREE07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
+      },
+
+{
+         "name": "US-DTAC-TRUE-FREE08",
          "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
       },
 
 {
-         "name": "SG-DTAC-30Day-FREE02",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
+         "name": "US-TRUE-DTAC-FREE01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
       },
 
 {
-         "name": "SG-DTAC-30Day-FREE03",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
+         "name": "US-TRUE-DTAC-FREE02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
       },
 
 {
-         "name": "SG-DTAC-30Day-FREE04",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-30Day-FREE05",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-30Day-FREE06",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-30Day-FREE07",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-30Day-FREE08",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
-      },
-
-{
-         "name": "SG-TRUE-30Day-FREE01",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
-      },
-
-{
-         "name": "SG-TRUE-30Day-FREE02",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
-      },
-
-{
-         "name": "SG-TRUE-30Day-FREE03",
-         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH.ovpn"
+         "name": "US-TRUE-DTAC-FREE03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-FREE.ovpn"
       },
 
 {
@@ -187,7 +187,7 @@
 
 
    ],
-"message":"🚀 Config version - 7 \n📆 Latest update - 01/10/2023 / TIME 21:00 PM\n• Thailand🇹🇭 Server VIP \n• Singapore 🇸🇬 Server VIP \n• \n• GoodSpeed\n• Online Games 100%% \n• Dtac Truemove AIS  NOPRO \n•  အဆင်ပြေကြမယ်လို့မျှော်လင့်မိပါတယ်\n ကျုံရဲ့သားလေး\n ဟိန်းမင်းလတ် ",
+"message":"🚀 Config version - 8 \n📆 Latest update - 11/10/2023 / TIME 11:00 AM\n• Thailand🇹🇭 Server VIP \n• Singapore 🇸🇬 Server VIP \n• \n• GoodSpeed\n• Online Games 100%% \n• Dtac Truemove AIS  NOPRO \n•  အဆင်ပြေကြမယ်လို့မျှော်လင့်မိပါတယ်\n ကျုံရဲ့သားလေး\n ဟိန်းမင်းလတ် ",
    "title":"Do you want to update?",
-   "version": 7
+   "version": 8
 }
